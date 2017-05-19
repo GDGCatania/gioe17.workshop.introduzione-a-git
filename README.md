@@ -5,3 +5,4 @@ Repository di esempio per workshop introduttivo all'utilizzo di Git
 
 - Luca è stato qui :fish:
 - Nadia e Daniele sono stati 
+- Riccardo è stato qui :fish:
