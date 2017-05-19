@@ -5,4 +5,4 @@ Repository di esempio per workshop introduttivo all'utilizzo di Git
 
 - Luca è stato qui :fish:
 
-- Orazio pure :cat:
+- Orazio pure! :cat: 
