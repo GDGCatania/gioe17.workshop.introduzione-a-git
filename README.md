@@ -12,3 +12,4 @@ Repository di esempio per workshop introduttivo all'utilizzo di Git
 - Riccardo è stato qui :fish:
 - Samuele è stato qui :wall:
 - Francesco è stato qui :fish:
+- Salvo è stato qui :fish:
