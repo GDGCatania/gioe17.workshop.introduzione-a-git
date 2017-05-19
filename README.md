@@ -8,4 +8,5 @@ Repository di esempio per workshop introduttivo all'utilizzo di Git
 - Simone è stato qui :fish:
 - Nadia e Daniele sono stati 
 - Riccardo è stato qui :fish:
+- Samuele è stato qui :wall:
 - Francesco è stato qui :fish:
